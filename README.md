@@ -6,11 +6,17 @@ https://github.com/antonychiu2/CircleCI
 ASoC REST API used:
 
 `Account/ApiKeyLogin`
+
 `/FileUpload`
+
 `/Scans/StaticAnalyzer`
+
 `/Scans/$scan_ID/Executions`
+
 `/Reports/Security/Scan/$scan_ID`
+
 `/Reports/$report_ID`
+
 `/Reports/Download/$report_ID`
 
 ASoC's full REST API list:
