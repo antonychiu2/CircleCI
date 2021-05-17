@@ -1,10 +1,11 @@
 # Introduction
 This is an example that demonstrate the ease of use of ASoC's powerful REST API capabilities. 
 
-Within 7 simple REST API method calls, I was able to get a SAST scan submitted into ASoC for static analysis and get scan result/report back. 
+Within 7 simple REST API method calls, we were was able to check out a source code from a github repo, have a SAST scan submitted into ASoC for static analysis and get scan result/report back. 
 
+The example shows the process of scanning a .net core project
 
-# ASoC REST API used:
+# ASoC REST API used in this example 
 
 `Account/ApiKeyLogin`
 
